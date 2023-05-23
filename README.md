@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
 
-- 🔭 I’m currently working on **Backend software project and Ethical hacking projects**
+- 🔭 I’m currently working on **Frontend, Backend software and Ethical hacking projects**
 
 - 🌱 I’m currently learning **Ethical Hacking, C programming, Python programming, Javascript,React, MySQL,**
 
